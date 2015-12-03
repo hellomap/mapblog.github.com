@@ -1,1 +1,1 @@
-# hellomap blog
+# mapblog.github.com
